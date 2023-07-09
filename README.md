@@ -34,3 +34,23 @@ Full Code
         4.2.2 Confusion Matrix mit Seaborn
 
    5. Under Construction
+
+
+# Ausblick bzw. To-Do-Liste:
+
+Verbinden der beiden Ansätze (PyFeat und CNN) in einem Notebook; Screenshots für beide Ansätze Nutzbar machen.
+
+Bisher wurde nur mit Zoom und Windows funktioniert/getestet.
+->Aufweiten auf Mac, Linux und Teams, Skype usw.
+
+.exe erstellen die das Programm/ Plugin startet.
+
+Schöneres GUI für Ergebnisse und Steuerung des Programms erstellen.
+->Start-/ Stopp-Button, Optik...
+
+Dynamisches Aktualisieren des Graphen.
+
+Keine Fehlerbehandlung vorhanden.
+
+Programm läuft sehr langsam.
+->Geschwindigkeit verbessern/ Programm Optimieren
